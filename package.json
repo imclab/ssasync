@@ -1,0 +1,28 @@
+{
+  "name": "ssasync",
+  "version": "0.1.0",
+  "main": "async.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sydneystockholm/ssasync"
+  },
+  "keywords": [
+    "async",
+    "asynchronous",
+    "synchronous",
+    "parallel",
+    "sequential",
+    "throttle",
+    "memoize"
+  ],
+  "devDependencies": {
+    "redback": "*",
+    "mocha": "*"
+  },
+  "author": "Sydney Stockholm <opensource@sydneystockholm.com>",
+  "license": "MIT",
+  "description": "Asynchronous helpers for node.js"
+}
